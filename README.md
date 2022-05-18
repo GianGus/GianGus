@@ -3,6 +3,7 @@
 - 👀 I’m interested in music, videogames, old movies, art in general
 - 🖥 I'm a Mac/iPhone user, but love also Linux
 - 🎸 I can play guitar and some Ocarina too
+- 🆖 I know nothing about programming or coding but I'm a nerdy man sometimes!
 
 
 <!---
